@@ -470,3 +470,5 @@ int main(){
 	menu();
     return 0;
 }
+
+// kelompok 2 strukdat
